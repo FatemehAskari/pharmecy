@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\FatemehUni\Term5\Datastructure\Project\projectds\projectds\bin\Debug\netcoreapp3.1\projectds.exe
+C:\Users\user\Desktop\FatemehUni\Term5\Datastructure\Project\projectds\projectds\bin\Debug\netcoreapp3.1\projectds.deps.json
+C:\Users\user\Desktop\FatemehUni\Term5\Datastructure\Project\projectds\projectds\bin\Debug\netcoreapp3.1\projectds.runtimeconfig.json
+C:\Users\user\Desktop\FatemehUni\Term5\Datastructure\Project\projectds\projectds\bin\Debug\netcoreapp3.1\projectds.runtimeconfig.dev.json
+C:\Users\user\Desktop\FatemehUni\Term5\Datastructure\Project\projectds\projectds\bin\Debug\netcoreapp3.1\projectds.dll
+C:\Users\user\Desktop\FatemehUni\Term5\Datastructure\Project\projectds\projectds\bin\Debug\netcoreapp3.1\projectds.pdb
+C:\Users\user\Desktop\FatemehUni\Term5\Datastructure\Project\projectds\projectds\obj\Debug\netcoreapp3.1\projectds.csprojAssemblyReference.cache
+C:\Users\user\Desktop\FatemehUni\Term5\Datastructure\Project\projectds\projectds\obj\Debug\netcoreapp3.1\projectds.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\FatemehUni\Term5\Datastructure\Project\projectds\projectds\obj\Debug\netcoreapp3.1\projectds.AssemblyInfo.cs
+C:\Users\user\Desktop\FatemehUni\Term5\Datastructure\Project\projectds\projectds\obj\Debug\netcoreapp3.1\projectds.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FatemehUni\Term5\Datastructure\Project\projectds\projectds\obj\Debug\netcoreapp3.1\projectds.dll
+C:\Users\user\Desktop\FatemehUni\Term5\Datastructure\Project\projectds\projectds\obj\Debug\netcoreapp3.1\projectds.pdb
+C:\Users\user\Desktop\FatemehUni\Term5\Datastructure\Project\projectds\projectds\obj\Debug\netcoreapp3.1\projectds.genruntimeconfig.cache
